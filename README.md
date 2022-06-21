@@ -1,7 +1,7 @@
 # Sobre mim
 
 
-- 👋 Olá, eu sou a professora Danielly
+- 👋 Olá, eu sou a professora **Danielly Pietrochinski**
 - 👀 Meu e-mail de contato é danielly.pietrochinski@escola.pr.gov.br
 - 🌱 Estou interessada em aprender mais sobre programação
 - 💞️ Fico a disposição para ajudar e esclarecer dúvidas
