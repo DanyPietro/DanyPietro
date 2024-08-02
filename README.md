@@ -1,12 +1,11 @@
-# Sobre mim
-
+# Sobre mim 😊
 
 - 👋 Olá, eu sou a professora **Danielly Pietrochinski**
 - 👀 Meu e-mail de contato é danielly.pietrochinski@escola.pr.gov.br
 - 🌱 Estou interessada em aprender mais sobre programação
 - 💞️ Fico a disposição para ajudar e esclarecer dúvidas
 
-
+![gif](https://media1.tenor.com/m/ubndYzy8_7YAAAAC/%E5%85%83%E6%B0%97-%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF.gif)
 <!---
 DanyPietro/DanyPietro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
